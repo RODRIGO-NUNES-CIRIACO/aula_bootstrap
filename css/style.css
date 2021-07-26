@@ -1,0 +1,30 @@
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(255, 47, 203);
+}
+
+.quem-somos {
+    background-color: blueviolet;
+    color: white;
+}
+
+.margin {
+    /*padding-top: 50px; cria um espaçamento com a Cor padrão*/
+    /*margin-top: 30px; CRIA UMA MARGEM DE ACORDO COM A COR DE FUNDO*/
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: rgb(36, 206, 72);
+}
+
+.bg-footer {
+    background-color: rgb(36, 206, 72);
+    color: white;
+    padding: auto;
+}
